@@ -7,7 +7,7 @@ Gnome theme for use on my linux installs
 `git clone https://github.com/sirkorgo/korgoshell.git`
 
 2. Navigate to the repo and run the install.sh script
-`sudo sh install.sh`
+`sh install.sh`
 
 > NOTICE: This script is intended to run with Fedora based distros (or any distro with dnf ig...)
 
