@@ -9,3 +9,4 @@ echo installing hanabi extension and dependencies...
 sudo dnf install meson
 cd ~/gnome-ext-hanabi
 ./run.sh install
+echo Installation complete! restart your penguin and enable hanabi extension in gnome extensions.
