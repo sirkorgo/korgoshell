@@ -7,4 +7,4 @@ git clone https://github.com/jeffshee/gnome-ext-hanabi.git -b gnome-48
 echo installing hanabi extension and dependencies...
 sudo dnf install meson
 cd gnome-ext-hanabi
-sudo ./run.sh install
+./run.sh install
