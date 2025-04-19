@@ -9,6 +9,8 @@ Gnome theme for use on my linux installs
 2. Navigate to the repo and run the install.sh script
 `sudo sh install.sh`
 
+> NOTICE: This script is intended to run with Fedora based distros (or any distro with dnf ig...)
+
 ## Post Installation (optional)
 After installing, go to https://extensions.gnome.org and install the following extensions:
 - Blur My Shell 
@@ -21,6 +23,10 @@ After installing, go to https://extensions.gnome.org and install the following e
 - User Themes
 
 i am too lazy to post the configs i used, so deal with it, go wild!
+
+### Hanabi Extension Wallpaper Setup
+
+for whatever reason, hanabi only allows for mp4 wallpapers.
 
 ## Sources
 - Hanabi Live Wallpapers: https://github.com/jeffshee/gnome-ext-hanabi
